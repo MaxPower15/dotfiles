@@ -1,0 +1,25 @@
+[core]
+  excludesfile = ~/.gitignore
+[user]
+  name = Max Schnur
+  email = mschnur@wistia.com
+[credential]
+  helper = osxkeychain
+[github]
+  user = MaxPower15
+[difftool]
+  prompt = false
+[diff]
+  tool = vimdiff
+[color]
+  ui = auto
+  interactive = auto
+[alias]
+  cb = checkout -b
+  co = checkout
+  br = branch
+  st = status
+  ci = commit
+  aa = add .
+  au = add --u
+  d = difftool
