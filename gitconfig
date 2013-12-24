@@ -20,6 +20,9 @@
   br = branch
   st = status
   ci = commit
+  cm = commit -m
+  ca = commit --amend
   aa = add .
   au = add --u
   d = difftool
+  pom = push origin master
