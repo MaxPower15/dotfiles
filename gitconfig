@@ -19,10 +19,11 @@
   co = checkout
   br = branch
   st = status
-  ci = commit
+  c = commit
   cm = commit -m
   ca = commit --amend
   aa = add .
   au = add --u
   d = difftool
+  dh = difftool HEAD
   pom = push origin master
